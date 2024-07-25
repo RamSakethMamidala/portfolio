@@ -1,13 +1,9 @@
-# LLczff Portfolio
+# RamSaketh's Portfolio
 
 Portfolio website developed using HTML5, CSS3, and JavaScript.
-[Visit Here 🚀](https://llczff.github.io)
-
-## Preview
-
-![screenshot](assets/screenshot.png)
+[Visit Here 🚀](https://ramsakeths.github.io)
 
 ## Author
 
-👤 **Theeradon Chaomai**  
-Feel free to reach me at [Linkedin](https://linkedin.com/in/thee-chaomai)
+👤 **Ram Saketh Mamidala**  
+Feel free to reach me at [Linkedin](https://www.linkedin.com/in/ram-saketh-mamidala-72883624b/)
